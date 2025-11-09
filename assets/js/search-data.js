@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-finding-my-place",
+        
+          title: "Finding My Place",
+        
+        description: "A little memory from when I first entered university.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/memory/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -235,17 +246,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/singapore/";
-          
-        },
-      },{id: "post-my-first-days-in-singapore",
-        
-          title: "My First Days in Singapore 🇸🇬",
-        
-        description: "A quiet memory of arriving, learning, and getting a little braver.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/images/";
           
         },
       },{id: "post-a-post-with-bibliography",
