@@ -6,6 +6,7 @@ description: an example of a blog post with custom blockquotes
 tags: formatting blockquotes
 categories: sample-posts
 giscus_comments: true
+published: false
 related_posts: true
 ---
 
