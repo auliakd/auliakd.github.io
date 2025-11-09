@@ -2,7 +2,7 @@
 layout: page
 title: SMARTech DCS IVENSTORY
 description: Prototype of a web-based inventory management system developed during internship at PT. Riau Andalan Pulp and Paper
-img: assets/img/smartech.jpg
+img: assets/img/smartech.png
 importance: 1
 category: work
 ---
@@ -42,7 +42,7 @@ Although the website was not officially launched, the project provided valuable 
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 mt-3">
-    {% include figure.liquid path="assets/img/smartech-demo.jpg" title="SMARTech DCS IVENSTORY Prototype" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/smartech-demo.png" title="SMARTech DCS IVENSTORY Prototype" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
