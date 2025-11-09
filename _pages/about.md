@@ -15,10 +15,37 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 3 # leave blank to include all the news in the `_news` folder
+{% if site.announcements.enabled %}
+  <div class="news">
+    <h2>news</h2>
+
+    {% assign all_news = site.news | sort: 'date' | reverse %}
+    {% assign limit = site.announcements.limit | default: all_news.size %}
+
+    <ul id="visible-news">
+      {% for post in all_news limit: limit %}
+        <li>
+          <b>{{ post.date | date: "%b %d, %Y" }}</b>
+          {{ post.content | markdownify }}
+        </li>
+      {% endfor %}
+    </ul>
+
+    {% if all_news.size > limit %}
+      <details>
+        <summary style="cursor:pointer; margin-top:8px;">Old News (~{{ all_news.last.date | date: "%Y" }})</summary>
+        <ul>
+          {% for post in all_news offset: limit %}
+            <li>
+              <b>{{ post.date | date: "%b %d, %Y" }}</b>
+              {{ post.content | markdownify }}
+            </li>
+          {% endfor %}
+        </ul>
+      </details>
+    {% endif %}
+  </div>
+{% endif %}
 
 latest_posts:
   enabled: true
