@@ -121,9 +121,9 @@ ninja.data = [{
           description: "Prototype of a web-based inventory management system developed during internship at PT. Riau Andalan Pulp and Paper",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-potensi-alam-riau",
+          title: 'Potensi Alam Riau',
+          description: "Web design project supporting local economic sustainability and SDGs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
