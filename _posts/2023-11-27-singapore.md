@@ -15,7 +15,7 @@ featured: true
 ### **Arrival — Day 1**
 
 <div style="float:right; width:40%; margin: 0 0 1.5rem 1.5rem;">
-  <img src="/assets/img/photo.jpg" style="width:100%; border-radius:8px;">
+  <img src="/assets/img/photo.jpeg" style="width:100%; border-radius:8px;">
 </div>
 
 The first steps outside the airport felt different.  
