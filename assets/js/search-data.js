@@ -134,21 +134,21 @@ ninja.data = [{
         title: 'Instagram',
         section: 'Socials',
         handler: () => {
-          window.open("https://instagram.com/@tikaaa_aulia03", "_blank");
+          window.open("https://instagram.com/tikaaa_aulia03", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/@Aulia_Kartika_Dewi", "_blank");
+          window.open("https://www.linkedin.com/in/aulia-kartika-dewi", "_blank");
         },
       },{
         id: 'social-youtube',
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@youtube.com/@auliakartikadwi", "_blank");
+          window.open("https://youtube.com/@auliakartikadwi", "_blank");
         },
       },{
       id: 'light-theme',
