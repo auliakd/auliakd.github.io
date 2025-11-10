@@ -373,8 +373,6 @@ imagemagick:
 #   See https://web.dev/browser-level-image-lazy-loading/ for more information.
 lazy_loading_images: true # enables lazy loading of images (recommended)
 
-display_cv: false
-
 # -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
