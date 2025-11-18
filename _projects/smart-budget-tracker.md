@@ -45,10 +45,10 @@ This template provides structure, visibility, and motivation so you can stay in 
         {% include figure.liquid path="assets/img/sbt-preview1.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/sbt-preview2.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/sbt-preview4.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/sbt-preview3.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/sbt-preview2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
