@@ -120,6 +120,11 @@ ninja.data = [{
           description: "English communication and debate program to enhance speaking, listening, and critical thinking skills",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-smart-budget-tracker-notion-template",
+          title: 'Smart Budget Tracker — Notion Template',
+          description: "A clean and structured personal finance dashboard built in Notion.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/smart-budget-tracker/";
             },},{
         id: 'social-email',
         title: 'email',
