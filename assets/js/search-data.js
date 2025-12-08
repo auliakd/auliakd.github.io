@@ -73,7 +73,12 @@ ninja.data = [{
             window.location.href = "/blog/2023/singapore/";
           
         },
-      },{id: "books-funiculi-funicula",
+      },{id: "books-dona-dona",
+          title: 'Dona Dona',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/dona_dona/";
+            },},{id: "books-funiculi-funicula",
           title: 'Funiculi Funicula',
           description: "",
           section: "Books",handler: () => {
