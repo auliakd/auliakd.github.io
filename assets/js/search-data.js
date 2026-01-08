@@ -73,6 +73,17 @@ ninja.data = [{
             window.location.href = "/blog/2023/singapore/";
           
         },
+      },{id: "post-from-inspiration-to-action-my-academic-visit-to-nus-amp-ntu",
+        
+          title: "From Inspiration to Action: My Academic Visit to NUS &amp; NTU",
+        
+        description: "A journey that transformed a quiet curiosity into a clear research path.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/formatting-and-links/";
+          
+        },
       },{id: "books-dona-dona",
           title: 'Dona Dona',
           description: "",
