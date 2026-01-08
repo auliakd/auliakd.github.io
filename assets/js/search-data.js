@@ -73,11 +73,11 @@ ninja.data = [{
             window.location.href = "/blog/2023/singapore/";
           
         },
-      },{id: "post-from-inspiration-to-action-my-academic-visit-to-nus-amp-ntu",
+      },{id: "post-academic-visit-exploring-information-systems-research-at-nus-amp-ntu",
         
-          title: "From Inspiration to Action: My Academic Visit to NUS &amp; NTU",
+          title: "Academic Visit: Exploring Information Systems Research at NUS &amp; NTU",
         
-        description: "A journey that transformed a quiet curiosity into a clear research path.",
+        description: "Insightful visit to ISA Research Labs, NUS, and benchmarking international academic standards.",
         section: "Posts",
         handler: () => {
           
