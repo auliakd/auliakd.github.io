@@ -73,11 +73,11 @@ ninja.data = [{
             window.location.href = "/blog/2023/singapore/";
           
         },
-      },{id: "post-academic-visit-exploring-information-systems-research-at-nus-amp-ntu",
+      },{id: "post-academic-benchmarking-research-insights-from-the-nus-isa-labs",
         
-          title: "Academic Visit: Exploring Information Systems Research at NUS &amp; NTU",
+          title: "Academic Benchmarking: Research Insights from the NUS ISA Labs",
         
-        description: "Insightful visit to ISA Research Labs, NUS, and benchmarking international academic standards.",
+        description: "An observational study of the research ecosystem within the Department of Information Systems and Analytics (DISA), NUS.",
         section: "Posts",
         handler: () => {
           
