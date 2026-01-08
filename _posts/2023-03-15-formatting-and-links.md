@@ -1,62 +1,56 @@
 ---
 layout: post
-title: "Academic Visit: Exploring Information Systems Research at NUS & NTU"
+title: "Academic Benchmarking: Research Insights from the NUS ISA Labs"
 date: 2023-11-27
-description: Insightful visit to ISA Research Labs, NUS, and benchmarking international academic standards.
-tags: academic-visit nus ntu research
+description: An observational study of the research ecosystem within the Department of Information Systems and Analytics (DISA), NUS.
+tags: academic-visit nus research-culture
 categories: academic-journey
 featured: true
 ---
 
-> *"Seeing the intersection of technology and research innovation at one of the world's leading universities."*
+> *"Observing the intersection of rigorous methodology and practical innovation at the National University of Singapore."*
 
 ---
 
-### **Benchmarking at NUS School of Computing**
+### **Strategic Visit to the ISA Research Labs**
 
-<div style="float:right; width:40%; margin: 0 0 1.5rem 1.5rem;">
-  <img src="/assets/img/photo_nus.jpeg" style="width:100%; border-radius:8px;">
+<div style="float:right; width:45%; margin: 0 0 1.5rem 1.5rem;">
+  <img src="/assets/img/photo_nus.png" style="width:100%; border-radius:8px;">
+  <p style="font-size: 0.8rem; text-align: center;">Department of Information Systems and Analytics, NUS.</p>
 </div>
 
-In late 2023, I had the opportunity to conduct an academic visit to the **National University of Singapore (NUS)**. The primary goal was to understand the research ecosystem within the **School of Computing**, specifically the **Information Systems & Analytics (ISA) Research Labs**.
+In late 2023, I conducted an academic visit to the **National University of Singapore (NUS)**, specifically targeting the **Department of Information Systems and Analytics (DISA)**. The primary objective was to benchmark the research environment and infrastructure within the **ISA Research Labs**.
 
-During this visit, we were guided by a **PhD student** who provided deep insights into:
-* The collaborative research culture between students and faculty.
-* How the lab addresses real-world industrial challenges through data-driven solutions.
-* The advanced infrastructure that supports high-impact publications.
-
-This experience was a pivotal moment for me. It transformed my theoretical understanding of Information Systems into a concrete ambition to contribute to this global research community.
+During the session, I was guided by a **PhD researcher** who provided a comprehensive overview of the lab’s operations. The discussion focused on several key areas:
+* **Research Integration:** How theoretical Information Systems frameworks are applied to solve large-scale industrial data challenges.
+* **Collaborative Ecosystem:** The synergy between doctoral candidates and faculty members in producing high-impact research.
+* **Data-Driven Innovation:** The lab’s commitment to utilizing advanced analytics for organizational transformation.
 
 <br clear="both" />
 
 ---
 
-### **Learning Resilience & International Standards**
+### **Developing Academic Resilience**
 
-<div style="float:left; width:40%; margin: 0 1.5rem 1.5rem 0;">
-  <img src="/assets/img/photo12.png" style="width:100%; border-radius:8px;">
-</div> 
+Exploring one of Asia's leading academic institutions provided a profound lesson in **academic resilience**. Navigating a global research hub like NUS requires a high degree of adaptability and the ability to engage in professional discourse across diverse backgrounds. 
 
-Our visit continued to **Nanyang Technological University (NTU)**. Navigating between these two prestigious campuses taught me more than just geography; it taught me **resilience**. 
-
-As international students, we practiced communicating in a global academic environment, overcoming language barriers, and navigating complex systems. As we say in Indonesia:
-
-> **"Malu bertanya sesat di jalan."** (He who is ashamed to ask will get lost).
-
-This principle is something I carry into my research today: the courage to ask the right questions and the persistence to find the answers, no matter how complex the problem.
+This experience reinforced the importance of proactive inquiry and persistence—qualities that are essential for any researcher striving to contribute to the international scientific community.
 
 ---
 
-### **Impact on My Research Vision**
+### **Alignment with Research Objectives**
 
-The visit to the **ISA Research Labs** directly influenced my current research focus. Witnessing how the DISA department integrates technology with business management inspired me to develop **"Toward an Intelligent PMIS."** I saw a gap in how unstructured project data is handled in the industry, and I realized that the methodologies discussed in labs like these—such as **NLP and Knowledge Graphs**—are the keys to solving those challenges.
+The insights gained from the **ISA Research Labs** have been instrumental in shaping my current research trajectory. Witnessing the DISA department's focus on **Information Systems and Analytics** directly inspired my investigation into **Intelligent PMIS**. 
 
----
-
-### **Closing Reflection**
-This academic visit was not just a destination; it was the start of my journey as a researcher. Returning to these memories reinforces my commitment to pursuing the **NUS SoC Summer Research Internship (SRI) 2026**.
-
-> *"Inspired in 2023. Ready to contribute in 2026."*
+The observation of how the lab addresses data complexity through technology has influenced my approach to using **NLP and Knowledge Graphs** to mitigate reporting latency in project management.
 
 ---
-*Documenting my steps toward global academic excellence.*
+
+### **Conclusion**
+
+This visit served as a catalyst for my professional development, setting a high benchmark for my future research endeavors. It remains a pivotal reference point as I continue to develop solutions that bridge the gap between academic theory and industrial practice.
+
+> *"A commitment to excellence, inspired by global research standards."*
+
+---
+*Professional record of academic benchmarking at the National University of Singapore.*
