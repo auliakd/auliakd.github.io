@@ -91,41 +91,41 @@ layout: default
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
             <div>
               {% case data[0] %}
-              {% when 'basics' %}
-    {%- comment -%} {% include resume/basics.liquid %} {%- endcomment -%}
+            {% when 'basics' %}
+  {% include resume/basics.liquid %}
 
-  {% when 'education' %}
-    {%- comment -%} {% include resume/education.liquid %} {%- endcomment -%}
+{% when 'education' %}
+  {% include resume/education.liquid %}
 
-  {% when 'work' %}
-    {%- comment -%} {% include resume/work.liquid %} {%- endcomment -%}
+{% when 'work' %}
+  {% include resume/work.liquid %}
 
-  {% when 'volunteer' %}
-    {%- comment -%} {% include resume/volunteer.liquid %} {%- endcomment -%}
+{% when 'volunteer' %}
+  {% include resume/volunteer.liquid %}
 
-  {% when 'projects' %}
-    {%- comment -%} {% include resume/projects.liquid %} {%- endcomment -%}
+{% when 'projects' %}
+  {% include resume/projects.liquid %}
 
-  {% when 'awards' %}
-    {%- comment -%} {% include resume/awards.liquid %} {%- endcomment -%}
+{% when 'awards' %}
+  {% include resume/awards.liquid %}
 
-  {% when 'skills' %}
-    {%- comment -%} {% include resume/skills.liquid %} {%- endcomment -%}
+{% when 'skills' %}
+  {% include resume/skills.liquid %}
 
-  {% when 'publications' %}
-    {%- comment -%} {% include resume/publications.liquid %} {%- endcomment -%}
+{% when 'publications' %}
+  {% include resume/publications.liquid %}
 
-  {% when 'languages' %}
-    {%- comment -%} {% include resume/languages.liquid %} {%- endcomment -%}
+{% when 'languages' %}
+  {% include resume/languages.liquid %}
 
-  {% when 'interests' %}
-    {%- comment -%} {% include resume/interests.liquid %} {%- endcomment -%}
+{% when 'interests' %}
+  {% include resume/interests.liquid %}
 
-  {% when 'certificates' %}
-    {%- comment -%} {% include resume/certificates.liquid %} {%- endcomment -%}
+{% when 'certificates' %}
+  {% include resume/certificates.liquid %}
 
-  {% when 'references' %}
-    {%- comment -%} {% include resume/references.liquid %} {%- endcomment -%}
+{% when 'references' %}
+  {% include resume/references.liquid %}
                 {% else %}
 
               {% endcase %}
