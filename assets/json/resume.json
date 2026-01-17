@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Aulia Kartika Dewi",
-    "Degree": "Bachelor of Information Systems",
+    "label": "Bachelor of Information Systems",
     "image": "",
     "email": "auliadewi936@gmail.com",
     "phone": "",
@@ -77,7 +77,8 @@
       "startDate": "2021-06-16",
       "endDate": "2025-01-17",
       "score": "3.79/4.00",
-      "courses": [ "Thesis: Systematic Literature Review on AI Functions in PMIS"
+      "courses": [
+        "Thesis: Systematic Literature Review on AI Functions in PMIS"
       ]
     }
   ],
@@ -123,40 +124,67 @@
     {
       "name": "Research",
       "level": "Advanced",
-      "keywords": ["SLR", "Academic Writing", "Data Analysis", "MSR", "LFA"]
+      "keywords": [
+        "SLR",
+        "Academic Writing",
+        "Data Analysis",
+        "MSR",
+        "LFA"
+      ]
     },
     {
       "name": "Technical",
       "level": "Intermediate",
-      "keywords": ["Python", "SQL", "Google Colab", "HTML & CSS", "Visio"]
+      "keywords": [
+        "Python",
+        "SQL",
+        "Google Colab",
+        "HTML & CSS",
+        "Visio"
+      ]
     }
   ],
   "languages": [
-    { "language": "Indonesian", "fluency": "Native" },
-    { "language": "English", "fluency": "Intermediate (B1)" },
-    { "language": "Korean", "fluency": "Beginner" }
+    {
+      "language": "Indonesian",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate (B1)"
+    },
+    {
+      "language": "Korean",
+      "fluency": "Beginner"
+    }
   ],
   "interests": [
     {
       "name": "Research",
-      "keywords": ["PMIS", "Digital Transformation", "NLP"]
+      "keywords": [
+        "PMIS",
+        "Digital Transformation",
+        "NLP"
+      ]
     }
   ],
   "references": [],
-"projects": [
-    {
-      "name": "International Academic Exposure",
-      "summary": "Academic visits to NUS, NTU (Singapore) and UiTM, UTP (Malaysia).",
-      "highlights": ["Benchmarking international standards for business-technology integration."],
-      "startDate": "2023-01-01",
-      "endDate": "2023-12-31"
+  "projects": [
+    {
+      "name": "International Academic Exposure",
+      "summary": "Academic visits to NUS, NTU (Singapore) and UiTM, UTP (Malaysia).",
+      "highlights": [
+        "Benchmarking international standards for business-technology integration."
+      ],
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31"
     },
     {
       "name": "SMARTech DCS INVENTORY",
       "summary": "A prototype of a web-based inventory management system developed during an internship at PT. Riau Andalan Pulp and Paper.",
       "highlights": [],
       "startDate": "2023-08-01",
-      "endDate": "2023-09-31"
+      "endDate": "2023-09-30"
     },
     {
       "name": "Potensi Alam Riau",
