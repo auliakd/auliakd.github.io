@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Aulia Kartika Dewi",
-    "label": "Bachelor of Information Systems",
+    "Degree": "Bachelor of Information Systems",
     "image": "",
     "email": "auliadewi936@gmail.com",
     "phone": "",
-    "url": "https://auliakd.github.io",
+    "url": "",
     "summary": "Scholarship Awardee from the Riau Provincial Government (2021-2025) with a background in Information Systems. Research interests include Project Management Information Systems (PMIS), Digital Knowledge Management, and Artificial Intelligence.",
     "location": {
-      "address": "Jl. HR. Soebrantas, Simpang Baru",
+      "address": "",
       "postalCode": "28293",
       "city": "Pekanbaru",
       "countryCode": "ID",
@@ -38,7 +38,7 @@
       "name": "PT. Surya Mas Perkasa (IKK Project)",
       "position": "PPC Administrative",
       "url": "",
-      "startDate": "2025-01-01",
+      "startDate": "2025-06-16",
       "endDate": "",
       "summary": "Assisting Project Control Engineers in managing and analyzing progress data for major engineering structures.",
       "highlights": [
@@ -50,8 +50,8 @@
       "name": "Scholarindo",
       "position": "Mentor (Online English Program)",
       "url": "",
-      "startDate": "2023-01-01",
-      "endDate": "2023-12-31",
+      "startDate": "2022-10-01",
+      "endDate": "2023-11-01",
       "summary": "Conducted weekly English mentoring sessions and developed structured learning plans.",
       "highlights": []
     }
@@ -61,8 +61,8 @@
       "organization": "PRO English Community",
       "position": "Project Manager",
       "url": "",
-      "startDate": "2023-01-01",
-      "endDate": "2024-12-31",
+      "startDate": "2023-08-01",
+      "endDate": "2024-10-01",
       "summary": "Led weekly basic English class programs and initiated cross-cultural collaborations.",
       "highlights": []
     }
@@ -74,7 +74,7 @@
       "url": "",
       "area": "Information Systems",
       "studyType": "Bachelor",
-      "startDate": "2021-01-01",
+      "startDate": "2021-06-16",
       "endDate": "2025-01-17",
       "score": "3.79/4.00",
       "courses": [
@@ -85,28 +85,28 @@
   "awards": [
     {
       "title": "Scholarship Awardee",
-      "date": "2021-01-01",
+      "date": "2021-12-01",
       "awarder": "Riau Provincial Government",
       "summary": "Full undergraduate scholarship based on academic achievement."
     }
   ],
   "certificates": [
     {
-      "name": "Workshop on Systematic Literature Review",
-      "date": "2025-01-01",
-      "issuer": "PRO-Knowledge Indonesia",
+      "name": "Business Analysis & Process Management",
+      "date": "2025-07-01",
+      "issuer": "Coursera Project Network",
       "icon": "fa-solid fa-chalkboard-user"
     },
     {
-      "name": "Workshop on Mendeley Reference Management",
-      "date": "2025-01-01",
-      "issuer": "PRO-Knowledge Indonesia",
+      "name": "OPEN English for Tourism Professionals MOOC",
+      "date": "2025-06-01",
+      "issuer": "Canvas Credentials (Badgr)",
       "icon": "fa-solid fa-book"
     }
   ],
   "publications": [
     {
-      "name": "Strategic Integration of Digital Knowledge Management in Project Management",
+      "name": "Digital Knowledge Management in Project-Based Organizations: A Decade of Evidence and Emerging Landscape for Innovation, Efficiency, and Sustainability",
       "publisher": "Journal of Information & Knowledge Management (JIKM)",
       "releaseDate": "2025-01-01",
       "url": "",
@@ -116,7 +116,7 @@
       "name": "Tujuh Kesalahan Mendasar dalam Menulis",
       "publisher": "PT PRO Knowledge Indonesia",
       "releaseDate": "2025-01-01",
-      "url": "",
+      "url": "https://proknowledge.my.id/tujuh-kesalahan-mendasar-dalam-menulis-artikel-ilmiah-skripsi-tesis-disertasi-jilid-1/",
       "summary": "Academic book co-author responsible for content writing and structuring."
     }
   ],
@@ -144,13 +144,34 @@
     }
   ],
   "references": [],
-  "projects": [
+"projects": [
+    {
+      "name": "International Academic Exposure",
+      "summary": "Academic visits to NUS, NTU (Singapore) and UiTM, UTP (Malaysia).",
+      "highlights": ["Benchmarking international standards for business-technology integration."],
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31"
+    },
     {
-      "name": "International Academic Exposure",
-      "summary": "Academic visits to NUS, NTU (Singapore) and UiTM, UTP (Malaysia).",
-      "highlights": ["Benchmarking international standards for business-technology integration."],
-      "startDate": "2023-01-01",
-      "endDate": "2023-12-31"
+      "name": "SMARTech DCS INVENTORY",
+      "summary": "A prototype of a web-based inventory management system developed during an internship at PT. Riau Andalan Pulp and Paper.",
+      "highlights": [],
+      "startDate": "2023-08-01",
+      "endDate": "2023-09-31"
+    },
+    {
+      "name": "Potensi Alam Riau",
+      "summary": "A web design project supporting local economic sustainability and the Sustainable Development Goals (SDGs).",
+      "highlights": [],
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "name": "Project Pro English",
+      "summary": "An English communication and debate program aimed at enhancing speaking, listening, and critical thinking skills.",
+      "highlights": [],
+      "startDate": "2023-08-01",
+      "endDate": "2024-10-01"
     }
   ]
 }
