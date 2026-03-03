@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-finding-my-place",
+            },{id: "post-cheap-quick-and-rigorous-transforming-systematic-literature-reviews-with-ai-and-python",
+        
+          title: "Cheap, Quick, and Rigorous: Transforming Systematic Literature Reviews with AI and Python",
+        
+        description: "Exploring how Artificial Intelligence and Python-based automation enhance the rigor and efficiency of Systematic Literature Reviews.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/ai-in-slr/";
+          
+        },
+      },{id: "post-finding-my-place",
         
           title: "Finding My Place",
         
