@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**New Paper Accepted!** 🎉 My research has been accepted to the **Journal of Information & Knowledge Management (JIKM)**.
+**Paper Published** 📄 My research has been published in the **Journal of Information & Knowledge Management (JIKM)**. [Read the article](https://www.worldscientific.com/doi/10.1142/S0219649225501370).
