@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'></a>. Information Systems Researcher.
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>auliadewi936@gmail.com</p>
-    <p>Pekanbaru, Indonesia</p>
+    <p>Indonesia</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,10 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Project Control Administrator at PT. Surya Mas Perkasa (Karawang), supporting project control, documentation, and data management in engineering-based project environments.
+I am an Information Systems researcher interested in the intersection of Artificial Intelligence (AI), Digital Knowledge Management (DKM), Natural Language Processing (NLP), Large Language Models (LLMs), and organizational decision support.
 
-Previously, I served as a Project Manager at Pro Knowledge Indonesia and worked as a Researcher in the Department of Information Systems, UIN Sultan Syarif Kasim Riau. I completed my Bachelor’s degree in Information Systems at UIN Sultan Syarif Kasim Riau in 2025, supervised by Dr. Saide.
+I hold a Bachelor’s degree in Information Systems from UIN Sultan Syarif Kasim Riau, completed in 2025. My research experience includes systematic literature reviews, empirical analysis of digital knowledge-sharing data, and research on AI and Knowledge Management. I also work as a Project Planning and Control (PPC) Administrator in the engineering industry, where I support project reporting, documentation, and data management.
 
-My interests focus on the intersection of Artificial Intelligence and Digital Knowledge Management within Project Management Information Systems (PMIS). I am particularly interested in how AI can enhance decision support, collaboration, and project efficiency in organizational settings.
-
-I work at the boundary between research and practice, contributing to digital transformation and project innovation through systems-oriented thinking and data-driven project workflows.
+My current research interest focuses on how AI can help organizations retrieve, organize, synthesize, and evaluate digital information into reusable knowledge while keeping human judgment central to decision-making. I am interested in connecting research and professional practice to develop AI-assisted systems that are technically capable, trustworthy, and responsive to organizational needs.
