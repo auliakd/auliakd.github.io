@@ -13,7 +13,7 @@
 email: "auliadewi936@gmail.com" # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: "auliakd" # your GitHub user name
+github_username: "auliakd" # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -27,15 +27,15 @@ instagram_id: "tikaaa_aulia03" # your instagram id
 linkedin_username: "aulia-kartika-dewi" # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: "0009-0009-5712-7516" # your ORCID ID
+orcid_id: "0009-0009-5712-7516" # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
-# scholar_userid: "96TTtIsAAAAJ" # your Google Scholar ID
-# scopus_id: "60352559200" # your profile on Scopus
+scholar_userid: "96TTtIsAAAAJ" # your Google Scholar ID
+scopus_id: "60352559200" # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
