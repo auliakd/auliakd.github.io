@@ -166,6 +166,13 @@ ninja.data = [{
           window.open("mailto:%61%75%6C%69%61%64%65%77%69%39%33%36@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/auliakd", "_blank");
+        },
+      },{
         id: 'social-instagram',
         title: 'Instagram',
         section: 'Socials',
@@ -178,6 +185,27 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/aulia-kartika-dewi", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0009-5712-7516", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=96TTtIsAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-scopus',
+        title: 'Scopus',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=60352559200", "_blank");
         },
       },{
         id: 'social-youtube',
