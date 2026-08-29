@@ -28,7 +28,7 @@
 
       {% if news_size > news_limit %}
         <details>
-          <summary style="cursor:pointer; margin-top:8px;">Old News (~{{ news.last.date | date: '%Y' }})</summary>
+          <summary style="cursor:pointer; margin-top:8px;"> Erlier News </summary>
           <table class="table table-sm table-borderless">
             {% for item in news offset: news_limit %}
               <tr>
