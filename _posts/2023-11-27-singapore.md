@@ -23,7 +23,7 @@ The air was clean. The atmosphere was organized.
 People walked with calm confidence.  
 I paused — not because I was confused, but because I was quietly absorbing everything.
 
-That day, I checked in at **Spacepod @ Lavender**, a small capsule hotel.  
+That day, I checked in at **Spacepod @Lavender**, a small capsule hotel.  
 It was simple, warm, and exactly what I needed after traveling.
 
 I rested.  
@@ -123,7 +123,7 @@ and she is possible.
 If one day you return here,  
 come as someone who has grown enough to say:
 
-> *"Thank you, for inspiring me to try harder — softly, but consistently."*
+> *"Thank you for inspiring me to try harder — softly, but consistently."*
 
 ---
 
