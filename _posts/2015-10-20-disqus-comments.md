@@ -1,14 +1,13 @@
 ---
-
 layout: post
-title: "From Project Documents to Organizational Knowledge: Lessons from a Year in Project Control"
-date: 2026-08-30
+title:  "From Project Documents to Organizational Knowledge: Lessons from a Year in Project Control"
+date: 2026-7-25 
 description: Reflections on how a year in project control changed my understanding of project information, documentation, and organizational knowledge.
 tags: project-control information-management knowledge-management project-management information-systems
 categories: professional-journey
 featured: true
 published: true
----------------
+---
 
 When I graduated with a Bachelor's degree in Information Systems, I did not expect my first professional experience to teach me so much about information itself.
 
