@@ -8,32 +8,32 @@ category: digital product
 published: true
 ---
 
-## 🌿 Smart Budget Tracker — Notion Template  
+## 🌿 Smart Budget Tracker — Notion Template
 A minimalist and fully structured Notion dashboard designed to help you manage your finances with clarity, consistency, and ease.
 
-Many people struggle with budgeting not because they lack money — but because they lack **a clear system**.  
+Many people struggle with budgeting not because they lack money — but because they lack **a clear system**.
 This template provides structure, visibility, and motivation so you can stay in control of your financial life.
 
 ---
 
 ## ✨ Key Features
 
-- **Monthly Finance Dashboard**  
+- **Monthly Finance Dashboard** 
   Clear breakdown of income, expenses, and ending balance.
 
-- **Bills & Subscription Tracker**  
+- **Bills & Subscription Tracker**
   Auto reminders, payment status, and a one-click “Pay” button.
 
-- **Savings Goals with Countdown**  
+- **Savings Goals with Countdown**
   Goal setting, progress bars, and daily/weekly/monthly breakdowns.
 
-- **Debt Tracker**  
+- **Debt Tracker**
   Auto-highlight for debts that are close to completion.
 
-- **Manifesting Board**  
+- **Manifesting Board**
   Visual goal board to stay motivated.
 
-- **Fully Connected Databases**  
+- **Fully Connected Databases**
   No repetitive manual input — everything updates automatically.
 
 ---
@@ -60,23 +60,23 @@ This template provides structure, visibility, and motivation so you can stay in 
 
 ## 🔗 Get the Template
 
-Available on Lynk:  
+Available on Lynk:
 👉 **https://lynk.id/auliakartikadewi**
 
 ---
 
 ## 🧩 Built With
 
-- Notion Databases  
-- Relations & Rollups  
-- Custom Formulas  
-- Linked Views  
+- Notion Databases
+- Relations & Rollups
+- Custom Formulas
+- Linked Views
 - Mobile-friendly layout
 
 ---
 
-## 👩‍💻 Creator  
-**Aulia Kartika Dewi**  
+## 👩‍💻 Creator
+**Aulia Kartika Dewi**
 Digital Product Creator • Information Systems
 
 ---
