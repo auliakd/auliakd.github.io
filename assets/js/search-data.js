@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Highlights of my teaching, mentoring, and academic facilitation activities.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
@@ -51,11 +44,22 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-cheap-quick-and-rigorous-transforming-systematic-literature-reviews-with-ai-and-python",
+            },{id: "post-from-project-documents-to-organizational-knowledge-lessons-from-a-year-in-project-control",
         
-          title: "Cheap, Quick, and Rigorous: Transforming Systematic Literature Reviews with AI and Python",
+          title: "From Project Documents to Organizational Knowledge: Lessons from a Year in Project Control...",
         
-        description: "Exploring how Artificial Intelligence and Python-based automation enhance the rigor and efficiency of Systematic Literature Reviews.",
+        description: "Reflections on how a year in project control changed my understanding of project information, documentation, and organizational knowledge.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/disqus-comments/";
+          
+        },
+      },{id: "post-ai-assisted-systematic-literature-reviews-a-practical-exploration-with-python",
+        
+          title: "AI-Assisted Systematic Literature Reviews: A Practical Exploration with Python",
+        
+        description: "Exploring how Artificial Intelligence and Python-based automation can support the rigor and efficiency of Systematic Literature Reviews.",
         section: "Posts",
         handler: () => {
           
@@ -84,9 +88,9 @@ ninja.data = [{
             window.location.href = "/blog/2023/singapore/";
           
         },
-      },{id: "post-academic-benchmarking-research-insights-from-the-nus-isa-labs",
+      },{id: "post-academic-visit-to-nus-observations-from-the-information-systems-and-analytics-research-labs",
         
-          title: "Academic Benchmarking: Research Insights from the NUS ISA Labs",
+          title: "Academic Visit to NUS: Observations from the Information Systems and Analytics Research Labs...",
         
         description: "An observational study of the research ecosystem within the Department of Information Systems and Analytics (DISA), NUS.",
         section: "Posts",
