@@ -119,6 +119,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/harrypotterphilosophers/";
+            },},{id: "books-no-longer-human",
+          title: 'No Longer Human',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/nolongerhuman/";
             },},{id: "news-worked-as-project-manager-at-pro-english-pt-pro-knowledge-indonesia",
           title: 'Worked as Project Manager at Pro English (PT. PRO Knowledge Indonesia).',
           description: "",
