@@ -10,7 +10,7 @@ started: 2025-12-08
 finished: —
 released: 2023
 stars: —
-status: Reading
+status: Finished
 ---
 
 *Dona Dona* is a novel by **Toshikazu Kawaguchi**, the author of the *Before the Coffee Gets Cold* series.  
