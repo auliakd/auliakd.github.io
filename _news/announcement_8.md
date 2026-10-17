@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📄✨ **New Paper Accepted!** My research has been accepted for publication in **Knowledge and Process Management (Wiley Online Library)**. 🎉
+📄✨ **Paper Published** My research has been published in the **Knowledge and Process Management (Wiley Online Library)**. 🎉 [Read the article]([https://onlinelibrary.wiley.com/doi/10.1002/kpm.70160]).
