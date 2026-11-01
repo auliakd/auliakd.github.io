@@ -28,4 +28,11 @@ latest_posts:
 
 I am an **Information Systems researcher** with a Bachelor's degree in [**Information Systems**](https://sif.uin-suska.ac.id/) from [**UIN Sultan Syarif Kasim Riau (UIN SUSKA Riau)**](https://uin-suska.ac.id/), Indonesia, which I completed in 2025. I am currently a **Research Assistant at [Pro Knowledge](https://proknowledge.my.id/)**, a research community focused on Knowledge Management. I also work as a **Project Planning and Control (PPC) Administrator** in the engineering industry.
 
-My research interests lie at the intersection of **Artificial Intelligence (AI), Digital Knowledge Management (DKM), Natural Language Processing (NLP), and Large Language Models (LLMs)**. I am particularly interested in exploring how AI can transform digital information into reusable knowledge to support knowledge sharing, organizational learning, and human-centered decision-making. My research interests include:
+My research interests lie at the intersection of **Artificial Intelligence (AI), Digital Knowledge Management (DKM), Natural Language Processing (NLP), and Large Language Models (LLMs)**.
+
+My current research focuses on **AI-Assisted Knowledge Management and AI–Human Collaboration**, particularly how AI can transform fragmented digital information into structured, reusable knowledge while keeping human judgment central to organizational decision-making.
+
+My research interests include:
+
+- AI-Assisted Knowledge Management
+- AI–Human Collaboration and Human-Centered Decision Support
