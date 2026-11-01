@@ -4,7 +4,7 @@ title: Smart Budget Tracker — Notion Template
 description: A clean and structured personal finance dashboard built in Notion.
 img: assets/img/sbt-cover.jpg
 importance: 1
-category: digital product
+category: applied
 published: true
 ---
 
