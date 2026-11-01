@@ -23,3 +23,124 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/* ==========================================
+   PUBLICATIONS PAGE
+   ========================================== */
+
+.publication-entry {
+  padding: 1.5rem 0;
+  margin-bottom: 0 !important;
+  border-bottom: 1px solid var(--global-divider-color);
+  align-items: flex-start;
+}
+
+.publication-thumbnail {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.publication-thumbnail img,
+.publication-preview {
+  width: 100%;
+  max-width: 190px;
+  height: auto;
+  max-height: 145px;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+}
+
+.publication-placeholder {
+  width: 100%;
+  max-width: 190px;
+  min-height: 110px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--global-code-bg-color);
+  color: var(--global-theme-color);
+  font-weight: 600;
+  letter-spacing: 1px;
+  border-radius: 10px;
+}
+
+.publication-content {
+  padding-left: 1.2rem;
+}
+
+.publication-title {
+  font-size: 1.12rem;
+  line-height: 1.5;
+  font-weight: 600;
+  margin-bottom: 0.55rem;
+}
+
+.publication-title a {
+  color: var(--global-text-color);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.publication-title a:hover {
+  color: var(--global-theme-color);
+  text-decoration: none;
+}
+
+.publication-authors {
+  font-size: 0.92rem;
+  line-height: 1.7;
+  margin-bottom: 0.35rem;
+}
+
+.publication-journal {
+  font-size: 0.9rem;
+  color: var(--global-text-color);
+  opacity: 0.8;
+  margin-bottom: 0.8rem;
+}
+
+.publication-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 0.65rem;
+}
+
+.publication-links .btn {
+  border: 1px solid var(--global-theme-color);
+  border-radius: 20px;
+  padding: 0.25rem 0.85rem;
+  color: var(--global-theme-color);
+  background: transparent;
+  font-size: 0.78rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.publication-links .btn:hover {
+  background: var(--global-theme-color);
+  color: white;
+  text-decoration: none;
+}
+
+@media (max-width: 576px) {
+  .publication-thumbnail {
+    justify-content: flex-start;
+    margin-bottom: 1rem;
+  }
+
+  .publication-thumbnail img,
+  .publication-preview {
+    max-width: 150px;
+  }
+
+  .publication-content {
+    padding-left: 15px;
+  }
+
+  .publication-title {
+    font-size: 1.02rem;
+  }
+}
