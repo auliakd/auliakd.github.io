@@ -4,7 +4,7 @@ title: Potensi Alam Riau
 description: Web design project supporting local economic sustainability and SDGs
 img: assets/img/potensialam.png
 importance: 2
-category: work
+category: applied
 ---
 
 ### Overview
