@@ -26,8 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Information Systems researcher interested in the intersection of Artificial Intelligence (AI), Digital Knowledge Management (DKM), Natural Language Processing (NLP), Large Language Models (LLMs), and organizational decision support.
+I am an **Information Systems researcher** with a Bachelor's degree in [**Information Systems**](https://sif.uin-suska.ac.id/) from [**UIN Sultan Syarif Kasim Riau (UIN SUSKA Riau)**](https://uin-suska.ac.id/), Indonesia, which I completed in 2025. I am currently a **Research Assistant at [Pro Knowledge](https://proknowledge.my.id/)**, a research community focused on Knowledge Management. I also work as a **Project Planning and Control (PPC) Administrator** in the engineering industry.
 
-I hold a Bachelor’s degree in Information Systems from UIN Sultan Syarif Kasim Riau, completed in 2025. My research experience includes systematic literature reviews, empirical analysis of digital knowledge-sharing data, and research on AI and Knowledge Management. I also work as a Project Planning and Control (PPC) Administrator in the engineering industry, where I support project reporting, documentation, and data management.
-
-My current research interest focuses on how AI can help organizations retrieve, organize, synthesize, and evaluate digital information into reusable knowledge while keeping human judgment central to decision-making. I am interested in connecting research and professional practice to develop AI-assisted systems that are technically capable, trustworthy, and responsive to organizational needs.
+My research interests lie at the intersection of **Artificial Intelligence (AI), Digital Knowledge Management (DKM), Natural Language Processing (NLP), and Large Language Models (LLMs)**. I am particularly interested in exploring how AI can transform digital information into reusable knowledge to support knowledge sharing, organizational learning, and human-centered decision-making. My research interests include:
