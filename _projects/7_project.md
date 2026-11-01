@@ -4,7 +4,7 @@ title: Project Pro English
 description: English communication and debate program to enhance speaking, listening, and critical thinking skills
 img: assets/img/proenglish.jpeg
 importance: 3
-category: work
+category: applied
 ---
 
 ### Overview
